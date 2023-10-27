@@ -1,0 +1,90 @@
+*{
+    margin: 0;
+    box-sizing: border-box;
+    padding: 0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+body{
+    background-color: #f0E8F8;
+}
+
+input{
+    border: none;
+    border-bottom: 1px solid #ccc;
+    width: 400px;
+    padding: 10px 0; 
+}
+
+input[type = "text"],
+input[type = "number"],
+input[type = "text"],
+textarea{
+width: 300px;
+
+}
+
+textarea{
+    padding: 10px 5px;
+}
+
+.hearder{
+    height: 160px;
+    padding: 20px;
+    background-color: #673ab7;
+}   
+
+.hearder h3{
+    color: #fff;
+}
+
+
+.container-form{
+    width: 60%;
+    background-color: #fdfdfd;
+    margin: 0 auto ;
+    position: relative;
+    top:-62px;
+}
+
+.forms{
+    
+ 
+}
+
+.heade{
+     height: 45px;
+     border-bottom: 1px solid #dfdfdf;
+        
+}  
+
+.heade p{
+    text-align: center;
+    font-size: 17px;
+    color: #9854d8;
+    width: 100px;
+    margin: 0 auto;
+    text-transform: uppercase;
+    line-height: 45px; 
+    border-bottom: 2px solid #9854d8;
+}
+
+.body-form{
+    padding: 30px;
+    text-align: center;
+}
+
+.titlle{
+    padding-bottom: 15px;
+}
+
+.body-form p{
+    padding-bottom: 20px;
+}
+
+.forms input{
+    margin-bottom: 35px;
+}
+.forms label{
+   margin-top: 10px;
+}
