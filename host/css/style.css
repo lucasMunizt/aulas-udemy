@@ -269,7 +269,8 @@ margin-bottom: 15px;
     margin-bottom: 20px;
 }
 
-.contact-container input, .contact-container textarea{
+.contact-container input, 
+.contact-container textarea{
     width: 200px;
     padding: 10px 20px;
     font-size: 16px;
@@ -335,9 +336,10 @@ footer{
     .main-banner p{
         padding: 0 2em;
     }
-     .service-container ul{
+
+    .service-container ul{
         flex-direction: column;
-     }
+    }
 
     .plan{
         width: 100%;
@@ -355,9 +357,8 @@ footer{
     }
 
     .searchdomain-container input[type="text"]{
-        width: 100%;
-        
-     }
+        width: 100%;    
+    }
 
     .contact-container input,
     .contact-container textarea{
